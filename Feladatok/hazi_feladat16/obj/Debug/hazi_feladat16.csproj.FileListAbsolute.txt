@@ -1,0 +1,8 @@
+C:\Development\VS\hazi_feladat1\hazi_feladat16\bin\Debug\hazi_feladat16.exe.config
+C:\Development\VS\hazi_feladat1\hazi_feladat16\bin\Debug\hazi_feladat16.exe
+C:\Development\VS\hazi_feladat1\hazi_feladat16\bin\Debug\hazi_feladat16.pdb
+C:\Development\VS\hazi_feladat1\hazi_feladat16\obj\Debug\hazi_feladat16.csproj.AssemblyReference.cache
+C:\Development\VS\hazi_feladat1\hazi_feladat16\obj\Debug\hazi_feladat16.csproj.SuggestedBindingRedirects.cache
+C:\Development\VS\hazi_feladat1\hazi_feladat16\obj\Debug\hazi_feladat16.csproj.CoreCompileInputs.cache
+C:\Development\VS\hazi_feladat1\hazi_feladat16\obj\Debug\hazi_feladat16.exe
+C:\Development\VS\hazi_feladat1\hazi_feladat16\obj\Debug\hazi_feladat16.pdb
