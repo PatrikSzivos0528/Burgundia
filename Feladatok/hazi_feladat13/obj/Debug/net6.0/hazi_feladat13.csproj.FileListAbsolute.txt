@@ -1,0 +1,15 @@
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/bin/Debug/net6.0/hazi_feladat13
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/bin/Debug/net6.0/hazi_feladat13.deps.json
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/bin/Debug/net6.0/hazi_feladat13.runtimeconfig.json
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/bin/Debug/net6.0/hazi_feladat13.dll
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/bin/Debug/net6.0/hazi_feladat13.pdb
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.csproj.AssemblyReference.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.AssemblyInfoInputs.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.AssemblyInfo.cs
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.csproj.CoreCompileInputs.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.dll
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/refint/hazi_feladat13.dll
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.pdb
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/hazi_feladat13.genruntimeconfig.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat13/obj/Debug/net6.0/ref/hazi_feladat13.dll

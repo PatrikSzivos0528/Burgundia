@@ -1,33 +1,47 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace hazi_feladat10
+
+namespace igazolatlan_hianyzasok
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Add meg az első számot: ");
-            int firstnum = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Add meg a második számot: ");
-            int secondnum = Int32.Parse(Console.ReadLine());
+            int hianyzasok;
 
+            Console.Write("Add meg a hiányzások számait: ");
+            hianyzasok = Convert.ToInt32(Console.ReadLine());
 
-            Random random = new Random();
-            int randomNumber = random.Next(firstnum, secondnum);
-
-            Int32 loop = 0;
-            do
+            if (10 < hianyzasok)
             {
-                loop++;
+                Console.Write("Add meg a szuletesi datumod: ");
+                Console.ReadLine();
+
+                Console.WriteLine($"Hianyzasok: {hianyzasok}");
+                Console.Write("A buntetes kategoriaja: ");
+                switch (hianyzasok)
+                {
+                    case > 40:
+                        Console.Write("felfuggesztes");
+                        break;
+                    case > 30:
+                        Console.Write("igazgatoi megrovas");
+                        break;
+                    case > 20:
+                        Console.Write("osztalyfonoki into");
+                        break;
+                    case > 10:
+                        Console.Write("figyelmeztetes");
+                        break;
+                    default:
+                        break;
+                }
             }
-            while (loop > 4);
+            Console.ReadKey();
+
 
 
         }
+
     }
 }
