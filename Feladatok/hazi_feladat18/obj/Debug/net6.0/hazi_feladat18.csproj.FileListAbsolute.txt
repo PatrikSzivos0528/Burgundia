@@ -1,0 +1,15 @@
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/bin/Debug/net6.0/hazi_feladat18
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/bin/Debug/net6.0/hazi_feladat18.deps.json
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/bin/Debug/net6.0/hazi_feladat18.runtimeconfig.json
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/bin/Debug/net6.0/hazi_feladat18.dll
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/bin/Debug/net6.0/hazi_feladat18.pdb
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.csproj.AssemblyReference.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.AssemblyInfoInputs.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.AssemblyInfo.cs
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.csproj.CoreCompileInputs.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.dll
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/refint/hazi_feladat18.dll
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.pdb
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/hazi_feladat18.genruntimeconfig.cache
+/Users/szivospatrikdavid/Downloads/Burgundia-main/Feladatok/hazi_feladat10/hazi_feladat18/obj/Debug/net6.0/ref/hazi_feladat18.dll
