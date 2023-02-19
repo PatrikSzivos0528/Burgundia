@@ -4,27 +4,20 @@ namespace hazi3
 {
     class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            string a = "egyik";
-            string b = "masik";
-
-            int x = String.Compare(a, b);
-
-            if (x == 0)
+            for (int i = 0; i < array.Length - 1; ++i)
             {
-                Console.Write("A ket string egyenlo");
+                for (int j = array.Length - 1; j > i; --j)
+                {
+                    if (array[j - 1] > array[j])
+                    {
+                        int tmp = array[j];
+                        array[j] = array[j - 1];
+                        array[j - 1] = tmp;
+                    }
+                }
             }
-            else if (x < 0)
-            {
-                Console.Write("AZ 'a' a kisebb");
-            }
-            else
-            {
-                Console.Write("A 'b' kisebb");
-            }
-
-            Console.ReadKey();
         }
     }
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi1/hazi1.csproj",
+      "projectUniqueName": "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/hazi1.csproj",
       "projectName": "hazi1",
-      "projectPath": "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi1/hazi1.csproj",
+      "projectPath": "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/hazi1.csproj",
       "packagesPath": "/Users/user/.nuget/packages/",
-      "outputPath": "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi1/obj/",
+      "outputPath": "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/user/.config/NuGet/NuGet.Config"

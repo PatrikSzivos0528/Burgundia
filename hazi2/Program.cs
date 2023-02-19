@@ -4,12 +4,35 @@ namespace hazi2
 {
     class Program
     {
-        public static void Main()
+        static void Main(string[] args)
         {
-            string s = "ezegystring";
-            Console.WriteLine(s[0]); // e
+            int islandCount = 0;
+            int maxIsIslandLenght = 0;
+            int i = 0;
 
-            Console.ReadKey();
+            while (i < data.Lenght)
+            {
+                if (data[i] == '1')
+                {
+                    ++islandCount;
+                    int j = i;
+                    int tmp = 0;
+
+                    while (j < data.Length && data[j] == '1')
+                    {
+                        ++j;
+                        ++tmp;
+                    }
+                    i = j;
+
+                    if (tmp > maxIslandLength) { maxIslandLength = tmp; }
+
+                }
+                else
+                {
+                    ++i;
+                }
+            }
         }
     }
 }

@@ -6,14 +6,17 @@ namespace hazi4
     {
         static void Main(string[] args)
         {
-            string s = "verylonglongstring";
-            char[] chs = new char[] { 'y', 'z', 'o' };
-
-            Console.WriteLine(s.IndexOf('r')); // 2
-            Console.WriteLine(s.IndexOfAny(chs)); //3
-            Console.WriteLine(s.LastIndexOf('n')); //16
-            Console.WriteLine(s.LastIndexOfAny(chs)); //9
-            Console.WriteLine(s.Contains("long")); // true
+            for (int i = 1; i < array.Length; ++i)
+            {
+                int y = array[i];
+                int j = i - 1;
+                while (j > -1 && y < array[j])
+                {
+                    array[j + 1] = array[j];
+                    --j;
+                }
+                array[j + 1] = y;
+            }
         }
     }
 }

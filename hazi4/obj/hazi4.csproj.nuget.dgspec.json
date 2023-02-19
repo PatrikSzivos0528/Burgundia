@@ -1,30 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi4/hazi4.csproj": {}
+    "/Users/user/Desktop/Patrik/min-max/min-max/hazi4/hazi4.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi4/hazi4.csproj": {
+    "/Users/user/Desktop/Patrik/min-max/min-max/hazi4/hazi4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi4/hazi4.csproj",
+        "projectUniqueName": "/Users/user/Desktop/Patrik/min-max/min-max/hazi4/hazi4.csproj",
         "projectName": "hazi4",
-        "projectPath": "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi4/hazi4.csproj",
+        "projectPath": "/Users/user/Desktop/Patrik/min-max/min-max/hazi4/hazi4.csproj",
         "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi4/obj/",
+        "outputPath": "/Users/user/Desktop/Patrik/min-max/min-max/hazi4/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/user/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "netcoreapp3.1"
         ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -35,8 +35,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
