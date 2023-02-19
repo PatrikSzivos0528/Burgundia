@@ -1,0 +1,15 @@
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/bin/Debug/net5.0/hazi3.deps.json
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/bin/Debug/net5.0/hazi3.runtimeconfig.json
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/bin/Debug/net5.0/hazi3.runtimeconfig.dev.json
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/bin/Debug/net5.0/hazi3.dll
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/bin/Debug/net5.0/ref/hazi3.dll
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/bin/Debug/net5.0/hazi3.pdb
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.csproj.AssemblyReference.cache
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.AssemblyInfoInputs.cache
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.AssemblyInfo.cs
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.dll
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/ref/hazi3.dll
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.pdb
+/Users/user/Desktop/Patrik/gyakorlati_feladatII/hazi3/obj/Debug/net5.0/hazi3.genruntimeconfig.cache
