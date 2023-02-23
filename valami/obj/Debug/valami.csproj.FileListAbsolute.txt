@@ -1,0 +1,8 @@
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\bin\Debug\valami.exe.config
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\bin\Debug\valami.exe
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\bin\Debug\valami.pdb
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\obj\Debug\valami.csproj.AssemblyReference.cache
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\obj\Debug\valami.csproj.SuggestedBindingRedirects.cache
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\obj\Debug\valami.csproj.CoreCompileInputs.cache
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\obj\Debug\valami.exe
+C:\Development\VS\PatrikSzivos0528\Burgundia\valami\obj\Debug\valami.pdb
