@@ -1,0 +1,8 @@
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\obj\Debug\kor.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\obj\Debug\kor.csproj.SuggestedBindingRedirects.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\obj\Debug\kor.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\bin\Debug\kor.exe.config
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\bin\Debug\kor.exe
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\bin\Debug\kor.pdb
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\obj\Debug\kor.exe
+C:\Users\szivos.patrik.david\Desktop\Burgundia\kor\kor\obj\Debug\kor.pdb

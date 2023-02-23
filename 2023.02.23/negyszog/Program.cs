@@ -22,6 +22,12 @@ namespace negyszog
             this.b = b;
         }
 
+        public negyszog(int a)
+        {
+            this.a = a;
+            this.b = a;
+        }
+
         public void setA(int a) {
             if (a > 1000)
             {
@@ -42,7 +48,7 @@ namespace negyszog
 
         public int setTerulet()
         {
-            return this.a * this.b;
+            this.T = this.a * this.b;
         }
 
         public int getTerulet()
@@ -51,7 +57,7 @@ namespace negyszog
         }
         public int setkerulet()
         {
-            return this.a + this.b * 2;
+            this.K = this.a + this.b * 2;
         }
 
         public int getKerulet()
@@ -64,12 +70,56 @@ namespace negyszog
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {   
+            //1.feladat
             negyszog n1 = new negyszog();
+            kiirOldal(n1.getA(), n1.getB());
 
-            Console.Write($"Az n1 négyszög oldalai: a={0}, b={1}", n1.getA(), n1.getB());
+            n1.setA(1);
+            n1.setB(2);
+
+            kiirOldal(n1.getA(), n1.getB());
+            n1.setTerulet();
+            n1.setkerulet();
+            kiirKerTer(n1.getTerulet(), n1.getKerulet());
+            // 2.feladat
+            negyszog n2 = new negyszog();
+            kiirOldal(n2.getA(), n2.getB());
+            n2.setTerulet();
+            n2.setkerulet();
+            kiirKerTer(n2.getTerulet(), n2.getKerulet());
+
+
+            //3.feladat
+            negyszog n3 = new negyszog();
+            kiirOldal(n2.nyomtat.oldal);
+            n3.setTerulet();
+            n3.setkerulet();
+            kiirKerTer(n3.nyomtat.oldal);
 
             Console.ReadKey();
+        }
+        
+        static private void kiirOldal(int a, int b)
+        {
+            Console.WriteLine($"Az n1 negyszog oldalai: a={a} b={b}");
+        }
+
+        static private void kiirKerTer(int a, int b)
+        {
+            Console.WriteLine($"Az n1 negyszog terulet={a}, kerulet={b}");
+        }
+
+
+
+        static private void kiir(negyszog obj, string v)
+        {
+            if (v == "o")
+            {
+                Console.WriteLine($"Az negyszog oldalai:" a =(obj.getA), b = (obj.getB));
+            }else
+            Console.WriteLine($"A negyszog terulete)
+
         }
     }
 }

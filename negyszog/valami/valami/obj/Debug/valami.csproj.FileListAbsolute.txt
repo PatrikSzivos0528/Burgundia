@@ -1,0 +1,3 @@
+C:\Users\szivos.patrik.david\Desktop\Burgundia\negyszog\valami\valami\obj\Debug\valami.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\negyszog\valami\valami\obj\Debug\valami.csproj.SuggestedBindingRedirects.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\negyszog\valami\valami\obj\Debug\valami.csproj.CoreCompileInputs.cache
