@@ -1,0 +1,3 @@
+C:\Users\szivos.patrik.david\Desktop\Burgundia\negyszog\negyszog\negyszog\obj\Debug\negyszog.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\negyszog\negyszog\negyszog\obj\Debug\negyszog.csproj.SuggestedBindingRedirects.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\negyszog\negyszog\negyszog\obj\Debug\negyszog.csproj.CoreCompileInputs.cache

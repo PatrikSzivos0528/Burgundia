@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "cyMuSM/imL0eEbM2VWQcMr8cGl8ufDL0XWKvi7wDqrvpvJdzH/LKGxXv9wNmMYPc4/Ulfz4VMewTACv18Y2Qmg==",
+  "dgSpecHash": "U6MUZFvBfFAJqZkjHNmopC/8an4wPVeWk763iv2SCQirvHMCxeUmWwHcuGvnODF1q0ZAS/f6vkB3JpQN4iF0sw==",
   "success": true,
-  "projectFilePath": "/Users/user/Desktop/Patrik/min-max/min-max/hazi2/hazi2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\szivos.patrik.david\\Desktop\\Burgundia\\Min-Max\\hazi2\\hazi2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\szivos.patrik.david\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\szivos.patrik.david\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\szivos.patrik.david\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\szivos.patrik.david\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/hazi1.csproj": {}
+    "C:\\Users\\szivos.patrik.david\\Desktop\\Burgundia\\Min-Max\\hazi1\\hazi1.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/hazi1.csproj": {
+    "C:\\Users\\szivos.patrik.david\\Desktop\\Burgundia\\Min-Max\\hazi1\\hazi1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/hazi1.csproj",
+        "projectUniqueName": "C:\\Users\\szivos.patrik.david\\Desktop\\Burgundia\\Min-Max\\hazi1\\hazi1.csproj",
         "projectName": "hazi1",
-        "projectPath": "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/hazi1.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/Patrik/min-max/min-max/hazi1/obj/",
+        "projectPath": "C:\\Users\\szivos.patrik.david\\Desktop\\Burgundia\\Min-Max\\hazi1\\hazi1.csproj",
+        "packagesPath": "C:\\Users\\szivos.patrik.david\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\szivos.patrik.david\\Desktop\\Burgundia\\Min-Max\\hazi1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/user/.config/NuGet/NuGet.Config"
+          "C:\\Users\\szivos.patrik.david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,16 +50,35 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
