@@ -1,0 +1,3 @@
+C:\Users\szivos.patrik.david\Desktop\poliform\poliform\obj\Debug\poliform.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\poliform\poliform\obj\Debug\poliform.csproj.SuggestedBindingRedirects.cache
+C:\Users\szivos.patrik.david\Desktop\poliform\poliform\obj\Debug\poliform.csproj.CoreCompileInputs.cache
