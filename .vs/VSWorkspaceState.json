@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\kor",
+    "\\kor\\kor",
+    "\\negyszog",
+    "\\negyszog\\negyszog",
+    "\\negyszog\\negyszog\\negyszog"
   ],
-  "SelectedNode": "\\valami.sln",
+  "SelectedNode": "\\kor\\kor\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
