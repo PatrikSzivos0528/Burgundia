@@ -16,7 +16,6 @@ namespace Haromszoghasab
             this.a = a;
             this.b = b;
             this.c = c;
-            this.m = m;
         }
         public void setA(int a) { this.a = a; }
         public void setB(int b) { this.b = b; }
@@ -40,14 +39,11 @@ namespace Haromszoghasab
     }
     class Hhasab : Haromszog
     {
-        private int m;
         private int terfogat;
         private int felszin;
 
         public Hhasab() : base() { }
-        public Hhasab(int a, int b, int c, int m, int m) : base(a, b, c, m)
-        { this.m = m; }
-        public void setM2(int m) { this.m = m; }
+        public Hhasab(int a, int b, int c) : base(a, b, c)
         public void setHaromszog()
         {
             base.setKerulet();
