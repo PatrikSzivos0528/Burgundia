@@ -7,7 +7,6 @@ namespace Haromszoghasab
         private int a;
         private int b;
         private int c;
-        private int m;
         private int terulet;
         private int kerulet;
 
@@ -22,11 +21,9 @@ namespace Haromszoghasab
         public void setA(int a) { this.a = a; }
         public void setB(int b) { this.b = b; }
         public void setC(int c) { this.c = c; }
-        public void setM(int m) { this.m = m; }
         public int getA() { return this.a; }
         public int getB() { return this.b; }
         public int getC() { return this.c; }
-        public int getM() { return this.m; }
 
 
         public void setKerulet()
@@ -34,29 +31,32 @@ namespace Haromszoghasab
         public int getKerulet()
         { return this.kerulet; }
         public void setTerulet()
-        { this.terulet = (a * m) % 2; }
-        public int getTerulet()
+        {
+            double s = (this.a + this.b + this.c) / 2;
+            this.terulet = Math.Round(Math.Sqrt(s * (s - this.a) * (s - this.b) * (s - this.c)), 2);
+        }
+        public double getTerulet()
         { return this.terulet; }
     }
     class Hhasab : Haromszog
     {
-        private int m2;
+        private int m;
         private int terfogat;
         private int felszin;
 
         public Hhasab() : base() { }
-        public Hhasab(int a, int b, int c, int m, int m2) : base(a, b, c, m)
-        { this.m2 = m2; }
-        public void setM2(int m2) { this.m2 = m2; }
+        public Hhasab(int a, int b, int c, int m, int m) : base(a, b, c, m)
+        { this.m = m; }
+        public void setM2(int m) { this.m = m; }
         public void setHaromszog()
         {
             base.setKerulet();
             base.setTerulet();
         }
         public void setTerfogat()
-        { this.terfogat = base.getTerulet() * this.m2; }
+        { this.terfogat = base.getTerulet() * this.m; }
         public void setFelszin()
-        { this.felszin = base.getKerulet() * this.m2 + 2 * base.getTerulet(); }
+        { this.felszin = base.getKerulet() * this.m + 2 * base.getTerulet(); }
         public int getTerfogat() { return this.terfogat; }
         public int getFelszin() { return this.felszin; }
     }
