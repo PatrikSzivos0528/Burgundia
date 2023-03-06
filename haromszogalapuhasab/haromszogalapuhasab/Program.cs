@@ -98,7 +98,7 @@ namespace Haromszoghasab
                 Console.WriteLine($"A h1 háromszög területe ={obj.getTerulet()}, kerület = {obj.getKerulet()}");
 
         }
-        static private void kiir(int a, int b, int c, int m)
+        static private void kiir(int a, int b, int c)
         {
         }
 
