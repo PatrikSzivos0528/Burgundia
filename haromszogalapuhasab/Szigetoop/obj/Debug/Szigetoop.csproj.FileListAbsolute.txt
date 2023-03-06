@@ -1,0 +1,8 @@
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\bin\Debug\Szigetoop.exe.config
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\bin\Debug\Szigetoop.exe
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\bin\Debug\Szigetoop.pdb
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\obj\Debug\Szigetoop.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\obj\Debug\Szigetoop.csproj.SuggestedBindingRedirects.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\obj\Debug\Szigetoop.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\obj\Debug\Szigetoop.exe
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\Szigetoop\obj\Debug\Szigetoop.pdb

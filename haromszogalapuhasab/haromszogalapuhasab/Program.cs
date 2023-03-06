@@ -7,11 +7,11 @@ namespace Haromszoghasab
         private int a;
         private int b;
         private int c;
-        private int terulet;
-        private int kerulet;
+        private double terulet;
+        private double kerulet;
 
         public Haromszog() { }
-        public Haromszog(int a, int b, int c, int m)
+        public Haromszog(int a, int b, int c)
         {
             this.a = a;
             this.b = b;
@@ -27,7 +27,7 @@ namespace Haromszoghasab
 
         public void setKerulet()
         { this.kerulet = a + b + c; }
-        public int getKerulet()
+        public double getKerulet()
         { return this.kerulet; }
         public void setTerulet()
         {
@@ -39,11 +39,13 @@ namespace Haromszoghasab
     }
     class Hhasab : Haromszog
     {
-        private int terfogat;
-        private int felszin;
+        private double terfogat;
+        private double felszin;
+           private int m;
 
         public Hhasab() : base() { }
-        public Hhasab(int a, int b, int c) : base(a, b, c)
+        public Hhasab(int a, int b, int c, int m) : base(a, b, c) { this.m = m; }
+
         public void setHaromszog()
         {
             base.setKerulet();
@@ -53,10 +55,9 @@ namespace Haromszoghasab
         { this.terfogat = base.getTerulet() * this.m; }
         public void setFelszin()
         { this.felszin = base.getKerulet() * this.m + 2 * base.getTerulet(); }
-        public int getTerfogat() { return this.terfogat; }
-        public int getFelszin() { return this.felszin; }
+        public double getTerfogat() { return this.terfogat; }
+        public double getFelszin() { return this.felszin; }
     }
-
     internal class Program
     {
         enum nyomtat { oldal, kerter, osszes }
@@ -69,7 +70,6 @@ namespace Haromszoghasab
             h1.setA(3);
             h1.setB(5);
             h1.setC(6);
-            h1.setM(6);
 
             kiir(h1, nyomtat.oldal);
             h1.setTerulet();

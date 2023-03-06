@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1704.4
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "haromszogalapuhasab", "haromszogalapuhasab\haromszogalapuhasab.csproj", "{595F1C8F-B5C2-46FA-A333-0A034E8C7707}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "haromszogalapuhasab", "haromszogalapuhasab\haromszogalapuhasab.csproj", "{595F1C8F-B5C2-46FA-A333-0A034E8C7707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Szigetoop", "Szigetoop\Szigetoop.csproj", "{BC0EED6F-7CD2-4786-9F58-CAA3A0AC2BFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atlaghomerseklet", "Atlaghomerseklet\Atlaghomerseklet.csproj", "{1A3A75AD-5135-4DDD-8639-AAFF9AC709B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{595F1C8F-B5C2-46FA-A333-0A034E8C7707}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595F1C8F-B5C2-46FA-A333-0A034E8C7707}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595F1C8F-B5C2-46FA-A333-0A034E8C7707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0EED6F-7CD2-4786-9F58-CAA3A0AC2BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0EED6F-7CD2-4786-9F58-CAA3A0AC2BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0EED6F-7CD2-4786-9F58-CAA3A0AC2BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0EED6F-7CD2-4786-9F58-CAA3A0AC2BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A3A75AD-5135-4DDD-8639-AAFF9AC709B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3A75AD-5135-4DDD-8639-AAFF9AC709B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3A75AD-5135-4DDD-8639-AAFF9AC709B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3A75AD-5135-4DDD-8639-AAFF9AC709B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

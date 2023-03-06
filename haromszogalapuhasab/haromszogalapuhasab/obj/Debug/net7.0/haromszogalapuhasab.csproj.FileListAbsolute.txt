@@ -1,0 +1,15 @@
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.AssemblyInfoInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.AssemblyInfo.cs
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\bin\Debug\net7.0\haromszogalapuhasab.exe
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\bin\Debug\net7.0\haromszogalapuhasab.deps.json
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\bin\Debug\net7.0\haromszogalapuhasab.runtimeconfig.json
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\bin\Debug\net7.0\haromszogalapuhasab.dll
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\bin\Debug\net7.0\haromszogalapuhasab.pdb
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.dll
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\refint\haromszogalapuhasab.dll
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.pdb
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\haromszogalapuhasab.genruntimeconfig.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\haromszogalapuhasab\haromszogalapuhasab\obj\Debug\net7.0\ref\haromszogalapuhasab.dll

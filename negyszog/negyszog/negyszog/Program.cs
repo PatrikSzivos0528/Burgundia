@@ -96,7 +96,7 @@ namespace negyszog
 
         public void setFelszín()
         {
-            this.fekszín = base.getTerulet() * this.m + 2 * this.getTerulet ();
+            this.felszín = base.getTerulet() * this.m + 2 * this.getTerulet ();
         }
 
         public double getTerfogat() { return this.terfogat; }
