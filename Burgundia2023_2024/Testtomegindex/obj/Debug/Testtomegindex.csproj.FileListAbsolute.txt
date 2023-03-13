@@ -1,0 +1,8 @@
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\obj\Debug\Testtomegindex.csproj.AssemblyReference.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\obj\Debug\Testtomegindex.csproj.SuggestedBindingRedirects.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\obj\Debug\Testtomegindex.csproj.CoreCompileInputs.cache
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\bin\Debug\Testtomegindex.exe.config
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\bin\Debug\Testtomegindex.exe
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\bin\Debug\Testtomegindex.pdb
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\obj\Debug\Testtomegindex.exe
+C:\Users\szivos.patrik.david\Desktop\Burgundia\Burgundia2023_2024\Testtomegindex\obj\Debug\Testtomegindex.pdb
